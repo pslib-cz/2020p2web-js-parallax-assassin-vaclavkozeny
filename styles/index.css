@@ -24,6 +24,7 @@ body {
     background-image: url("../images/ilu_01.png");
     z-index: 3;
 }
+
 .layer-2 {
     background-image: url("../images/ilu_02.png");
     z-index: 2;
@@ -43,6 +44,9 @@ body {
     color: #ffffff;
     padding: 7em;
     height: 100vh;
+}
+.text1{
+    background: linear-gradient(#130D0A,#000);
 }
 .text2 {
     background-color: azure;
